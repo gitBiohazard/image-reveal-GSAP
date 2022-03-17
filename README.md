@@ -1,5 +1,5 @@
 # Image Reveal GSAP Animation 🎭
-Get you images with a enhanced reveal design with GSAP.
+Get you images with a enhanced reveal design with GSAP. \
 Live demo here: (https://codepen.io/gitBiohazard/pen/dyJGJKG)
 
 # Standard Website Template ✨
