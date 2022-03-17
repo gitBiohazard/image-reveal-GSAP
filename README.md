@@ -1,3 +1,6 @@
+# Image Reveal GSAP Animation 🎭
+Get you images with a enhanced reveal design with GSAP.
+
 # Standard Website Template ✨
 Start projects easily and fast including some front-end design and animations frameworks.
 ### Included scripts:
