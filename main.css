@@ -35,3 +35,56 @@
 @media (min-width: 1200px) {
 
 }
+
+body {
+    background: rgba(240, 75, 116, 0.933);
+}
+
+.home {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+}
+
+.home__title {
+    width: 50%;
+    margin-bottom: 3%;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    color: white;
+}
+
+.home__title a {
+    color: #00ffea;
+    transition: .4s;
+}
+
+.home__title a:hover {
+    color: #00eeff;
+}
+
+.home__section__figure {
+    overflow: hidden;
+}
+
+.home__button {
+    padding: 8px 20px;
+    border-radius: 8px;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgba(151, 36, 65, 0.933);
+    color: white;
+    position: absolute;
+    transition: .4s;
+    top: 20px;
+    left: 20px;
+}
+
+.home__button:hover {
+    background: black;
+}
