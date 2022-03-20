@@ -11,7 +11,6 @@ class Reveal {
             autoAlpha: 1
         })
         this.holderIn.fromTo(this.holder, {
-            height: "0%",
             y: "-150%"
         }, {
             delay: 0,
@@ -22,7 +21,6 @@ class Reveal {
                 axis: 'x'
             },
             scale: 1,
-            height: "100%",
             y: "0%"
         })
 
